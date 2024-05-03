@@ -1,0 +1,59 @@
+{
+  "name": "@entrade/business-component",
+  "entries": [
+    {
+      "version": "0.0.92",
+      "tag": "@entrade/business-component_v0.0.92",
+      "date": "Mon, 15 Apr 2024 23:11:03 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.91",
+      "tag": "@entrade/business-component_v0.0.91",
+      "date": "Mon, 15 Apr 2024 19:26:07 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.90",
+      "tag": "@entrade/business-component_v0.0.90",
+      "date": "Thu, 04 Apr 2024 15:11:39 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.89",
+      "tag": "@entrade/business-component_v0.0.89",
+      "date": "Wed, 03 Apr 2024 21:39:13 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.88",
+      "tag": "@entrade/business-component_v0.0.88",
+      "date": "Tue, 02 Apr 2024 18:35:13 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.87",
+      "tag": "@entrade/business-component_v0.0.87",
+      "date": "Fri, 29 Mar 2024 16:23:33 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.86",
+      "tag": "@entrade/business-component_v0.0.86",
+      "date": "Fri, 29 Mar 2024 00:27:26 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.85",
+      "tag": "@entrade/business-component_v0.0.85",
+      "date": "Fri, 29 Mar 2024 00:27:16 GMT",
+      "comments": {}
+    },
+    {
+      "version": "0.0.84",
+      "tag": "@entrade/business-component_v0.0.84",
+      "date": "Fri, 29 Mar 2024 00:27:12 GMT",
+      "comments": {}
+    }
+  ]
+}

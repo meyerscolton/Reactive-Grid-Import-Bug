@@ -1,0 +1,18 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# rush
+.rush
+
+# config
+config
+
+# src
+src
+
+# other root configuration file
+.npmrc-publish
+tsconfig.json

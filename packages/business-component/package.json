@@ -1,0 +1,31 @@
+{
+  "name": "@entrade/business-component",
+  "version": "0.0.92",
+  "description": "Example business components rush package",
+  "license": "MIT",
+  "author": "Enuit",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "build": "heft build --clean"
+  },
+  "devDependencies": {
+    "@rushstack/heft": "~0.48.0",
+    "@types/node": "~18.11.0",
+    "@types/react": "~18.0.21",
+    "@types/react-dom": "~18.0.6",
+    "react": "~18.2.0",
+    "react-dom": "~18.2.0",
+    "typescript": "~4.8.3"
+  },
+  "dependencies": {
+    "@mui/icons-material": "~5.14.8",
+    "@mui/material": "~5.14.8",
+    "@mui/system": "~5.14.8",
+    "@mui/x-date-pickers": "^6.15.0",
+    "@devexpress/dx-react-core": "~4.0.8",
+    "@devexpress/dx-react-grid": "~4.0.8",
+    "@devexpress/dx-react-grid-material-ui": "~4.0.8",
+    "react-router": "~6.22.3"
+  }
+}
